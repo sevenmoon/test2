@@ -1,0 +1,37 @@
+.head-icon-font{
+    font-size: 12px;
+    margin-top: -30px;
+    font-weight: bold;
+}
+.head-icon{
+    float: left;
+    text-align: center;
+    cursor: pointer;
+    transition-duration: 100ms;
+}
+.head-icon:hover{
+    transform:translateY(-3px) scale(1.05,1.05);
+   
+}
+.artical-head-info{
+    float: left;
+    height: 200px;
+    width: 400px;
+    margin-top: 10px;
+}
+.artical-head-info-right{
+    float: left;
+    height: 200px;
+    width: 400px;
+    margin-top: 10px;
+    margin-left: 100px;
+   
+}
+
+.artical-head-info-t{
+    clear: both;
+    float: left;
+    margin-top: 10px;
+   height: 200px;
+   width: 400px;
+}
